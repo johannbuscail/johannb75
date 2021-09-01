@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**johannb75/johannb75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **johannb75/johannb75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on big social network project
+- 🌱 I’m currently learning Dart (flutter)
+- 👯 I’m looking to collaborate on my social network
+- 🤔 I’m looking for help with : Front End, Data Science
+- 💬 Ask me about anything
+- 👨‍💻 I'm really good with: 
+	- HTML / CSS
+	-	Typescript
+	-	React / React Native
+	- NodeJS
+	- Godot
+	- Python
+	- GraphQL
+- 🕵️‍♂️ I want to learn: Rust, C#, 
+- 📫 How to reach me: johann@buscail.eu
+- ⚡ Fun fact: I love horseriding and do it since I'm 5.
+- 🌐 I fluently speak 5 languages: French, English, Russian, German and Arabic
