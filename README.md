@@ -19,3 +19,5 @@
 - 📫 How to reach me: johann@buscail.eu
 - ⚡ Fun fact: I love horseriding and do it since I'm 5.
 - 🌐 I fluently speak 5 languages: French, English, Russian, German and Arabic
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=johannb75&count_private=true&show_icons=true&theme=radical)]
