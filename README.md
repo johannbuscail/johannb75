@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on big social network project
 - 🌱 I’m currently learning Dart (flutter)
 - 👯 I’m looking to collaborate on my social network
-- 🤔 I’m looking for help with : Front End, Data Science
+- 🤔 I’m looking for help with : UI/UX, Data Science
 - 💬 Ask me about anything
 - 👨‍💻 I'm really good with: 
 	- HTML / CSS
